@@ -3,8 +3,6 @@
 }
 .search-form-fieldset {
     background: #3f3e39;
-}
-.search-form-fieldset, .search-form-fieldset-input {
     border-radius: 35px;
     border: solid #2b2a25;
     border-width: 0.5px;
