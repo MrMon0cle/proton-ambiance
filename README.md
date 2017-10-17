@@ -1,10 +1,8 @@
-# proton-ambiance
-Custom Ambiance-Styled ProtonMail Themes
+# ProtonMail Ambiance Theme
+proton-ambiance is a collection of ProtonMail Themes aimed to imitate the look and feel of the GTK Theme Ambiance. There are 5 different options, each with 5 different accent color combinations.
 
 ## This project is a work-in-progress and not yet ready for use.  
 ### Official release is scheduled for 11/01/17.  
-
-proton-ambiance is a collection of ProtonMail Themes aimed to imitate the look and feel of the GTK Theme Ambiance. There are 5 different options, each with 5 different accent color combinations.  
   
 ---
   
