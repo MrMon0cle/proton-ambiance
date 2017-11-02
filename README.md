@@ -4,7 +4,7 @@ proton-ambiance is a collection of ProtonMail Themes aimed to imitate the look a
 ---
     
 ## This project is a work-in-progress and not yet ready for use.  
-### Official release is scheduled for 11/01/17.  
+### Official release is scheduled for 11/10/17.  
   
     
 ---
