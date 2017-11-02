@@ -152,6 +152,11 @@ body section.sidebar div.footer .bar {
 .conversation.read {
     background: #e7e6e4;
 }
+.conversation.active {
+    background: #e95420;
+    color: #FFF;
+    border-bottom-color: #828895;
+}
 #pm_composer .composer header {
     background: #696969;
     color: #F2F2F2
