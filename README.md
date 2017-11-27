@@ -1,5 +1,6 @@
 # ProtonMail Ambiance Theme
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)]() [![service](https://img.shields.io/badge/service-ProtonMail-9497ce.svg)]()
+
 proton-ambiance is a collection of ProtonMail Themes aimed to imitate the look and feel of the GTK Ambiance Theme. There are 5 different options. Ambiance Light and Dark are classic, Ubuntu styled ambiance themes. Afterdark, Pop!, and KDE, add some color variations to the main themes. 
     
 ---
