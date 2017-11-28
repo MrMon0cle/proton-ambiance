@@ -5,9 +5,9 @@ proton-ambiance is a ProtonMail Themes aimed to imitate the look and feel of the
     
 ---
   
-#### 1. Ambiance Theme Light  
+#### Ambiance Theme Light Screenshot 
 
-![protonmail-ambiance](https://www.dropbox.com/s/3l701mgvqot5uu8/ambiance-light.jpg?dl=0)
+![protonmail-ambiance](screenshots/ambiance-light.jpg)
     
 ---
   
