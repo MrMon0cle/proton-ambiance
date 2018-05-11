@@ -294,3 +294,6 @@ nav.toolbarDesktop-container.pm_toolbar.pm_toolbar_withSelector {
     height: 100%;
     background-color: #ec6446;
 }
+.navigation>li.active, .navigation>li:hover {
+    border-color: #e95420;
+}
